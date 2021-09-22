@@ -1,0 +1,20 @@
+.contacts{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2% 2% 2% 2%;
+  
+  flex-direction: column;
+}
+
+.formDiv{
+  border: 1px solid black;
+  margin: 0 15% 15% 15%;
+  padding: 1% 5% 2% 5%;
+  border-radius: 2%;
+}
+.button{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
